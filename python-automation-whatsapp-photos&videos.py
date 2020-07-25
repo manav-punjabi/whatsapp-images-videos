@@ -4,6 +4,7 @@
 # In[ ]:
 
 
+from numpy import genfromtxt
 import webbrowser
 import time
 import pyautogui as gui
