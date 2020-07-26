@@ -25,7 +25,7 @@ for i in numbers:
     webbrowser.open(url)
     time.sleep(1)
     gui.click(position)
-    time.sleep(1)
+    time.sleep(2)
     gui.click(pos2)
     time.sleep(interval)
     gui.press('down')
